@@ -1,6 +1,8 @@
 <p align="center">
     <a target="_blank" href="https://github.com/led4c/logic-roleplay-site">
-        <img src="https://cdn.discordapp.com/attachments/1143410526563602483/1143410663142723675/ldc-3dp.png"
+        <!-- <img src="https://cdn.discordapp.com/attachments/1143410526563602483/1143410663142723675/ldc-3dp.png"
+            width="400" data-width="400" data-height="400"> -->
+        <img src="[https://cdn.discordapp.com/attachments/1143410526563602483/1143410663142723675/ldc-3dp.png](https://media.discordapp.net/attachments/1299805258511421450/1299805695859888148/ldc_gif.gif?ex=6967e3e3&is=69669263&hm=69a6f9068e6197dd99da9706974c5bc11987872a39baee6f87a05c88edb0c604&=)"
             width="400" data-width="400" data-height="400">
     </a>
 </p>
